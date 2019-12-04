@@ -1,0 +1,41 @@
+h1{
+    color: #01A573;
+}
+
+h3{
+   padding-top: 12px;
+   padding-bottom: 6px;
+   color: #01A573;
+}
+
+#home-jumbotron{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/jumbo2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+
+    color: white;
+    margin-bottom: 0;
+}
+
+#perfil-div{
+    background-color: black;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 0;
+}
+
+#tecnico-div{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 0;
+}
+
+#tecnologias-ul{
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
